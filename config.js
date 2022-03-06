@@ -6,25 +6,25 @@ var config = {
   markerColor: "#3FB1CE",
   theme: "light",
   use3dTerrain: false,
-  //   title: "Mapbox Root Map",
-  //   subtitle: "マップボックスの遍歴をたどったストーリーテリング",
+  //   title: "Mapbox Root",
+  //   subtitle: "Mapboxの遍歴をたどったストーリーテリング",
   //   byline: "By a Digital Storyteller",
   //   footer: "Source: source citations, etc.",
   chapters: [
     {
-      id: "SF",
+      id: "1",
       alignment: "left",
       hidden: false,
-      title: "SF",
+      title: "地図のない世界に光を",
       image:
-        "https://images.unsplash.com/photo-1506892642965-956d41f262b2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c2FuZnJhbnNpc2NvfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "https://drive.google.com/drive/u/0/folders/173_kYVJlmhiAsM7o8AqTVtewctHYGiYY",
       description:
-        "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
+        "Eric Gundersenによって創設されたMapbox。Mapboxは地図で様々なNGOの支援を行うために作られました。パキスタンの洪水マップやアフガニスタンの選挙マップの作成など、限られたデジタル環境下でも大量のデータをマッピングできるツールとして活用されていました。発展途上国に限らず世界中の様々な分野で高パフォーマンスを発揮する地図プラットフォームがここに誕生しました。",
       location: {
-        center: [-122.48243, 37.76611],
-        zoom: 10.17,
-        pitch: 60.0,
-        bearing: 32.13,
+        center: [65.68784,34.32715],
+        zoom: 5.41,
+        pitch: 0,
+        bearing: 0,
       },
       mapAnimation: "flyTo",
       rotateAnimation: false,
@@ -44,10 +44,10 @@ var config = {
       ],
     },
     {
-      id: "Japan",
+      id: "2",
       alignment: "right",
       hidden: false,
-      title: "SB",
+      title: "2010年 Mapbox Inc.設立",
       image:
         "https://images.unsplash.com/photo-1534723328310-e82dad3ee43f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c29mdGJhbmt8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
       description:
