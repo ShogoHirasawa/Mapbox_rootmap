@@ -17,7 +17,7 @@ var config = {
       hidden: false,
       title: "地図のない世界に光を",
       image:
-        "https://drive.google.com/drive/u/0/folders/173_kYVJlmhiAsM7o8AqTVtewctHYGiYY",
+        "https://shogohirasawa.github.io/Mapbox_rootmap/image/origins/Mapbox_origins-Monitoring_fair_elections_in_Afghanistan.jpeg",
       description:
         "Eric Gundersenによって創設されたMapbox。Mapboxは地図で様々なNGOの支援を行うために作られました。パキスタンの洪水マップやアフガニスタンの選挙マップの作成など、限られたデジタル環境下でも大量のデータをマッピングできるツールとして活用されていました。発展途上国に限らず世界中の様々な分野で高パフォーマンスを発揮する地図プラットフォームがここに誕生しました。",
       location: {
@@ -49,7 +49,7 @@ var config = {
       hidden: false,
       title: "2010年 Mapbox Inc.設立",
       image:
-        "https://images.unsplash.com/photo-1534723328310-e82dad3ee43f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c29mdGJhbmt8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+        "https://shogohirasawa.github.io/Mapbox_rootmap/image/origins/Mapbox origins - Development Seed circa 2012.jpg",
       description:
         "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
       location: {
