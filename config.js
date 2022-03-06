@@ -49,7 +49,7 @@ var config = {
       hidden: false,
       title: "2010年 Mapbox Inc.設立",
       image:
-        "https://shogohirasawa.github.io/Mapbox_rootmap/image/origins/Mapbox origins - Development Seed circa 2012.jpg",
+        "https://shogohirasawa.github.io/Mapbox_rootmap/image/origins/Mapbox_origins-Development_Seed_circa_2012.jpg",
       description:
         "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
       location: {
