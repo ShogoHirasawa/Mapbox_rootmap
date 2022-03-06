@@ -57,7 +57,7 @@ var config = {
       hidden: false,
       title: "2015年 グローバル企業へ",
       image:
-        "https://shogohirasawa.github.io/Mapbox_rootmap/image/offices/global_office.jpeg",
+        "https://images.unsplash.com/photo-1516738901171-8eb4fc13bd20?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
       description: "世界各地にオフィスを持つ500人以上の優秀なチームに成長",
       location: {
         center: [-1.12782, 31.55374],
