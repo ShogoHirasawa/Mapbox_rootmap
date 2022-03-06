@@ -1,7 +1,7 @@
 var config = {
-  style: "mapbox://styles/mapbox/streets-v11",
+  style: "mapbox://styles/shogohirasawa/cl0f4hkpq003a14pjuluji37e",
   accessToken:
-    "pk.eyJ1Ijoic2hvZ29oaXJhc2F3YSIsImEiOiJja3Zsd3kxMzk1NDV1MnFvazN4OHI5OWN4In0.I-kllSJi19LcGRCHV4M5aw",
+    "pk.eyJ1Ijoic2hvZ29oaXJhc2F3YSIsImEiOiJjazFhbzVrMG0yNmxjM2xuaTBmM3h0dW4wIn0.Bxjy09jy_cwOQVexF1xBfg",
   showMarkers: false,
   theme: "light",
   use3dTerrain: false,
@@ -81,7 +81,7 @@ var config = {
       // description: "",
       location: {
         center: [-77.03859, 38.88175],
-        zoom: 11.56,
+        zoom: 11.0,
         pitch: 60,
         bearing: 38.01,
       },
@@ -157,7 +157,8 @@ var config = {
       alignment: "right",
       hidden: false,
       title: "2020年3月10日 マップボックス・ジャパン設立",
-      image: "https://shogohirasawa.github.io/Mapbox_rootmap/image/Japan/CEOtakata.jpeg",
+      image:
+        "https://shogohirasawa.github.io/Mapbox_rootmap/image/Japan/CEOtakata.jpeg",
       description:
         "Mapbox Inc.とソフトバンク株式会社が合同出資し、「マップボックス・ジャパン合同会社」を2020年3月10日に設立。CEO高田を筆頭に日本の新しい地図プラットフォームに挑戦",
       location: {
