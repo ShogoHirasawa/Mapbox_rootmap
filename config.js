@@ -59,12 +59,12 @@ var config = {
       title: "2010年 Mapbox Inc.設立",
       image:
         "https://shogohirasawa.github.io/Mapbox_rootmap/image/origins/Mapbox_origins-Development_Seed_circa_2012.jpg",
-      description: "ワシントンDCの14番街の路地裏にあるガレージでスタート",
+      description: "2015　世界各地にオフィスを持つ500人以上の優秀なチームに成長",
       location: {
-        center: [-77.04014, 38.89518],
-        zoom: 10.68,
-        pitch: 60.0,
-        bearing: -36.8,
+        center: [ -1.12782,31.55374],
+        zoom: 1.38,
+        pitch: 0,
+        bearing: 0,
       },
       mapAnimation: "flyTo",
       rotateAnimation: false,
