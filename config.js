@@ -55,11 +55,10 @@ var config = {
       id: "3",
       alignment: "left",
       hidden: false,
-      title: "2010年 Mapbox Inc.設立",
+      title: "2015年 グローバル企業へ",
       image:
         "https://shogohirasawa.github.io/Mapbox_rootmap/image/offices/global_office.jpeg",
-      description:
-        "2015年 世界各地にオフィスを持つ500人以上の優秀なチームに成長",
+      description: "世界各地にオフィスを持つ500人以上の優秀なチームに成長",
       location: {
         center: [-1.12782, 31.55374],
         zoom: 1.38,
@@ -158,9 +157,9 @@ var config = {
       alignment: "right",
       hidden: false,
       title: "2020年3月10日 マップボックス・ジャパン設立",
-      image: "https://www.youtube.com/watch?v=dtmawMcrsAc",
+      image: "https://shogohirasawa.github.io/Mapbox_rootmap/image/Japan/CEOtakata.jpeg",
       description:
-        "Mapbox Inc.とソフトバンク株式会社が合同出資し、「マップボックス・ジャパン合同会社」を2020年3月10日に設立",
+        "Mapbox Inc.とソフトバンク株式会社が合同出資し、「マップボックス・ジャパン合同会社」を2020年3月10日に設立。CEO高田を筆頭に日本の新しい地図プラットフォームに挑戦",
       location: {
         center: [139.77084, 35.68273],
         zoom: 8.8,
