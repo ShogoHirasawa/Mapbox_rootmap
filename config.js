@@ -2,8 +2,7 @@ var config = {
   style: "mapbox://styles/mapbox/streets-v11",
   accessToken:
     "pk.eyJ1Ijoic2hvZ29oaXJhc2F3YSIsImEiOiJja3Zsd3kxMzk1NDV1MnFvazN4OHI5OWN4In0.I-kllSJi19LcGRCHV4M5aw",
-  showMarkers: true,
-  markerColor: "#3FB1CE",
+  showMarkers: false,
   theme: "light",
   use3dTerrain: false,
   //   title: "Mapbox Root",
