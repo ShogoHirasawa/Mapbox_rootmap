@@ -21,7 +21,7 @@ var config = {
       description:
         "Eric Gundersenによって創設されたMapbox。Mapboxは地図で様々なNGOの支援を行うために作られました。パキスタンの洪水マップやアフガニスタンの選挙マップの作成など、限られたデジタル環境下でも大量のデータをマッピングできるツールとして活用されていました。発展途上国に限らず世界中の様々な分野で高パフォーマンスを発揮する地図プラットフォームがここに誕生しました。",
       location: {
-        center: [65.68784,34.32715],
+        center: [65.68784, 34.32715],
         zoom: 5.41,
         pitch: 0,
         bearing: 0,
@@ -29,19 +29,8 @@ var config = {
       mapAnimation: "flyTo",
       rotateAnimation: false,
       callback: "",
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: "2",
@@ -50,13 +39,32 @@ var config = {
       title: "2010年 Mapbox Inc.設立",
       image:
         "https://shogohirasawa.github.io/Mapbox_rootmap/image/origins/Mapbox_origins-Development_Seed_circa_2012.jpg",
-      description:
-        "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
+      description: "ワシントンDCの14番街の路地裏にあるガレージでスタート",
       location: {
-        center: [139.76028, 35.81736],
-        zoom: 7.73,
+        center: [-77.04014, 38.89518],
+        zoom: 10.68,
         pitch: 60.0,
-        bearing: -9.6,
+        bearing: -36.8,
+      },
+      mapAnimation: "flyTo",
+      rotateAnimation: false,
+      callback: "",
+      onChapterEnter: [],
+      onChapterExit: [],
+    },
+    {
+      id: "3",
+      alignment: "right",
+      hidden: false,
+      title: "2010年 Mapbox Inc.設立",
+      image:
+        "https://shogohirasawa.github.io/Mapbox_rootmap/image/origins/Mapbox_origins-Development_Seed_circa_2012.jpg",
+      description: "ワシントンDCの14番街の路地裏にあるガレージでスタート",
+      location: {
+        center: [-77.04014, 38.89518],
+        zoom: 10.68,
+        pitch: 60.0,
+        bearing: -36.8,
       },
       mapAnimation: "flyTo",
       rotateAnimation: false,
