@@ -179,13 +179,14 @@ var config = {
       alignment: "left",
       hidden: false,
       title: "2021年7月 日本独自の地図広告プロダクト「Mapbox広告」をリリース",
-      image: "image/Japan/map_ad.png",
+      image:
+        "https://shogohirasawa.github.io/Mapbox_rootmap/image/Japan/map_ad.png",
       description:
         "マップボックス・ジャパンから地図広告プロダクト「Mapbox広告」をリリース。Web地図の新しい広告技術を日本から発信",
       location: {
-        center: [139.75010, 35.66992 ],
+        center: [139.7501, 35.66992],
         zoom: 15.08,
-        pitch: 55.00,
+        pitch: 55.0,
         bearing: 0.0,
       },
       mapAnimation: "flyTo",
