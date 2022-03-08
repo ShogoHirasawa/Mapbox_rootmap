@@ -18,7 +18,7 @@ var config = {
       image:
         "https://shogohirasawa.github.io/Mapbox_rootmap/image/origins/Mapbox_origins-Monitoring_fair_elections_in_Afghanistan.jpeg",
       description:
-        "Eric Gundersenによって創設されたMapbox。Mapboxは地図で様々なNGOの支援を行うために作られました。パキスタンの洪水マップやアフガニスタンの選挙マップの作成など、限られたデジタル環境下でも大量のデータをマッピングできるツールとして活用されていました。発展途上国に限らず世界中の様々な分野で高パフォーマンスを発揮する地図プラットフォームがここに誕生しました。",
+        "パキスタンの洪水マップやアフガニスタンの選挙マップの作成など、限られたデジタル環境下でも大量のデータをマッピングできるツールとして開発されたのが「Mapbox」でした。発展途上国に限らず、世界中の様々な分野で高パフォーマンスを発揮する地図プラットフォームがここに誕生しました。",
       location: {
         center: [65.68784, 34.32715],
         zoom: 5.41,
@@ -75,7 +75,7 @@ var config = {
       id: "4",
       alignment: "right",
       hidden: false,
-      title: "ワシントンDC本社",
+      title: "ワシントンDC office",
       image:
         "https://shogohirasawa.github.io/Mapbox_rootmap/image/offices/washington-dc(1).jpg",
       // description: "",
@@ -96,7 +96,7 @@ var config = {
       id: "5",
       alignment: "left",
       hidden: false,
-      title: "サンフランシスコ支社",
+      title: "サンフランシスコ office",
       image:
         "https://shogohirasawa.github.io/Mapbox_rootmap/image/offices/san-francisco-0-1200x800.jpg",
       // description: "",
@@ -116,7 +116,7 @@ var config = {
       id: "6",
       alignment: "right",
       hidden: false,
-      title: "ヘルシンキ支社",
+      title: "ヘルシンキ office",
       image:
         "https://shogohirasawa.github.io/Mapbox_rootmap/image/offices/Helsinki.jpg",
       // description: "",
@@ -136,7 +136,7 @@ var config = {
       id: "7",
       alignment: "left",
       hidden: false,
-      title: "ミンスク支社",
+      title: "ミンスク office",
       image:
         "https://shogohirasawa.github.io/Mapbox_rootmap/image/offices/minsk-IMG_3918.jpg",
       // description: "",
@@ -179,7 +179,7 @@ var config = {
       hidden: false,
       title: "2021年7月 日本独自の地図広告プロダクト「Mapbox広告」をリリース",
       image:
-        "https://shogohirasawa.github.io/Mapbox_rootmap/image/Japan/map_ad.png",
+        "https://shogohirasawa.github.io/Mapbox_rootmap/image/Japan/map_ad_2.png",
       description:
         "マップボックス・ジャパンから地図広告プロダクト「Mapbox広告」をリリース。Web地図の新しい広告技術を日本から発信",
       location: {
