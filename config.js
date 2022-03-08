@@ -78,7 +78,7 @@ var config = {
       title: "ワシントンDC office",
       image:
         "https://shogohirasawa.github.io/Mapbox_rootmap/image/offices/washington-dc(1).jpg",
-      description: "Washington, DC, US (HQ)  740 15th St NW",
+      // description: "Washington, DC, US (HQ)  740 15th St NW",
       location: {
         center: [-77.03859, 38.88175],
         zoom: 11.0,
@@ -99,7 +99,7 @@ var config = {
       title: "サンフランシスコ office",
       image:
         "https://shogohirasawa.github.io/Mapbox_rootmap/image/offices/san-francisco-0-1200x800.jpg",
-      description: "740 15th St NW San Francisco, CA, US 50 Beale St floor 9, San Francisco",
+      // description: "740 15th St NW San Francisco, CA, US 50 Beale St floor 9, San Francisco",
       location: {
         center: [-122.43945, 37.75321],
         zoom: 10.28,
@@ -119,7 +119,7 @@ var config = {
       title: "ヘルシンキ office",
       image:
         "https://shogohirasawa.github.io/Mapbox_rootmap/image/offices/Helsinki.jpg",
-      description: "Helsinki, FI Mikonkatu 19b",
+      // description: "Helsinki, FI Mikonkatu 19b",
       location: {
         center: [24.93331, 60.18783],
         zoom: 10.12,
@@ -139,7 +139,7 @@ var config = {
       title: "ミンスク office",
       image:
         "https://shogohirasawa.github.io/Mapbox_rootmap/image/offices/minsk-IMG_3918.jpg",
-      description: "Minsk, BY Kirova street, 8, office 27, 4th floor",
+      // description: "Minsk, BY Kirova street, 8, office 27, 4th floor",
       location: {
         center: [27.58657, 53.88578],
         zoom: 10.68,
