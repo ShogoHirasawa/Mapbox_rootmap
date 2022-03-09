@@ -131,26 +131,26 @@ var config = {
       onChapterEnter: [],
       onChapterExit: [],
     },
-    {
-      id: "7",
-      alignment: "left",
-      hidden: false,
-      title: "ミンスク office",
-      image:
-        "https://shogohirasawa.github.io/Mapbox_rootmap/image/offices/minsk-IMG_3918.jpg",
-      // description: "",
-      location: {
-        center: [27.58657, 53.88578],
-        zoom: 10.68,
-        pitch: 41.0,
-        bearing: 0.0,
-      },
-      mapAnimation: "flyTo",
-      rotateAnimation: false,
-      callback: "",
-      onChapterEnter: [],
-      onChapterExit: [],
-    },
+    // {
+    //   id: "7",
+    //   alignment: "left",
+    //   hidden: false,
+    //   title: "ミンスク office",
+    //   image:
+    //     "https://shogohirasawa.github.io/Mapbox_rootmap/image/offices/minsk-IMG_3918.jpg",
+    //   // description: "",
+    //   location: {
+    //     center: [27.58657, 53.88578],
+    //     zoom: 10.68,
+    //     pitch: 41.0,
+    //     bearing: 0.0,
+    //   },
+    //   mapAnimation: "flyTo",
+    //   rotateAnimation: false,
+    //   callback: "",
+    //   onChapterEnter: [],
+    //   onChapterExit: [],
+    // },
     {
       id: "8",
       alignment: "right",
@@ -181,6 +181,27 @@ var config = {
         "https://shogohirasawa.github.io/Mapbox_rootmap/image/Japan/map_ad_2.png",
       description:
         "マップボックス・ジャパンから地図広告プロダクト「Mapbox広告」をリリース。Web地図の新しい広告技術を日本から発信",
+      location: {
+        center: [139.7501, 35.66992],
+        zoom: 15.08,
+        pitch: 55.0,
+        bearing: 0.0,
+      },
+      mapAnimation: "flyTo",
+      rotateAnimation: false,
+      callback: "",
+      onChapterEnter: [],
+      onChapterExit: [],
+    },
+    {
+      id: "10",
+      alignment: "left",
+      hidden: false,
+      title: "ストーリーテリングについて",
+      image:
+        "https://shogohirasawa.github.io/Mapbox_rootmap/image/origins/mapbox_image.png",
+      description:
+        "このルーツマップはMapboxのストーリーテリングのテンプレートを利用して作成しました。ストーリーテリングについて詳しくはこちら",
       location: {
         center: [139.7501, 35.66992],
         zoom: 15.08,
