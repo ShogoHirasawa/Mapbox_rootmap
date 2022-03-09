@@ -75,7 +75,7 @@ var config = {
       id: "4",
       alignment: "right",
       hidden: false,
-      title: "ワシントンDC office",
+      title: "アメリカ ワシントンDC office",
       image:
         "https://shogohirasawa.github.io/Mapbox_rootmap/image/offices/washington-dc(1).jpg",
       location: {
@@ -95,7 +95,7 @@ var config = {
       id: "5",
       alignment: "left",
       hidden: false,
-      title: "サンフランシスコ office",
+      title: "アメリカ サンフランシスコ office",
       image:
         "https://shogohirasawa.github.io/Mapbox_rootmap/image/offices/san-francisco-0-1200x800.jpg",
       // description: "",
@@ -115,7 +115,7 @@ var config = {
       id: "6",
       alignment: "right",
       hidden: false,
-      title: "ヘルシンキ office",
+      title: "フィンランド ヘルシンキ office",
       image:
         "https://shogohirasawa.github.io/Mapbox_rootmap/image/offices/Helsinki.jpg",
       // description: "",
@@ -159,7 +159,7 @@ var config = {
       image:
         "https://shogohirasawa.github.io/Mapbox_rootmap/image/Japan/CEOtakata.jpeg",
       description:
-        "Mapbox Inc.とソフトバンク株式会社が合同出資し、「マップボックス・ジャパン合同会社」を2020年3月10日に設立。CEO高田を筆頭に日本の新しい地図プラットフォームに挑戦",
+        "Mapbox Inc.とソフトバンク株式会社が合同出資し、「マップボックス・ジャパン合同会社」を2020年3月10日に設立。CEO高田を中心に日本の新しい地図プラットフォームに挑戦",
       location: {
         center: [139.77084, 35.68273],
         zoom: 8.8,
@@ -200,15 +200,8 @@ var config = {
       title: "ストーリーテリングについて",
       image:
         "https://shogohirasawa.github.io/Mapbox_rootmap/image/origins/mapbox_image.png",
-      description: (
-        <p>
-          このルーツマップはMapboxのストーリーテリングのテンプレートを利用して作成しました。
-          ストーリーテリングについて詳しくは
-          <a href="https://www.mapbox.jp/blog/interactive-storytelling-3d-maps-with-mapbox-gl-js-v2">
-            こちら
-          </a>
-        </p>
-      ),
+      description:
+        '<p>このルーツマップはMapboxのストーリーテリングのテンプレートを利用して作成しました。<br>ストーリーテリングについて詳しくは<a href="https://www.mapbox.jp/blog/interactive-storytelling-3d-maps-with-mapbox-gl-js-v2">こちら</a></p>',
       location: {
         center: [139.7501, 35.66992],
         zoom: 15.08,
