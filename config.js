@@ -78,7 +78,6 @@ var config = {
       title: "ワシントンDC office",
       image:
         "https://shogohirasawa.github.io/Mapbox_rootmap/image/offices/washington-dc(1).jpg",
-      // description: "",
       location: {
         center: [-77.03859, 38.88175],
         zoom: 11.0,
