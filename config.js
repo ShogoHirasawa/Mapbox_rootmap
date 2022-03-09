@@ -200,8 +200,15 @@ var config = {
       title: "ストーリーテリングについて",
       image:
         "https://shogohirasawa.github.io/Mapbox_rootmap/image/origins/mapbox_image.png",
-      description:
-        "このルーツマップはMapboxのストーリーテリングのテンプレートを利用して作成しました。ストーリーテリングについて詳しくはこちら",
+      description: (
+        <p>
+          このルーツマップはMapboxのストーリーテリングのテンプレートを利用して作成しました。
+          ストーリーテリングについて詳しくは
+          <a href="https://www.mapbox.jp/blog/interactive-storytelling-3d-maps-with-mapbox-gl-js-v2">
+            こちら
+          </a>
+        </p>
+      ),
       location: {
         center: [139.7501, 35.66992],
         zoom: 15.08,
