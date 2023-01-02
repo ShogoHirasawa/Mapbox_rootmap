@@ -3,7 +3,7 @@ var config = {
   accessToken:
     "pk.eyJ1Ijoic2hvZ29oaXJhc2F3YSIsImEiOiJjazFhbzVrMG0yNmxjM2xuaTBmM3h0dW4wIn0.Bxjy09jy_cwOQVexF1xBfg",
   showMarkers: false,
-  theme: "light",
+  theme: "dark",
   use3dTerrain: false,
   //   title: "Mapbox Root",
   //   subtitle: "Mapboxの遍歴をたどったストーリーテリング",
