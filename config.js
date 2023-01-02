@@ -56,9 +56,8 @@ var config = {
       alignment: "right",
       hidden: false,
       title: "2015年 グローバル企業へ",
-      image:
-        "https://images.unsplash.com/photo-1516738901171-8eb4fc13bd20?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-      description: "世界各地にオフィスを持つ500人以上の優秀なチームに成長",
+      description:
+        '<div class="vid_contents"> <video autoplay loop class="vid_main" src="https://shogohirasawa.github.io/Mapbox_rootmap/video/BuildWithMapbox.mp4" controls loop playsinline muted></video> </div><p>世界各地にオフィスを持つ500人以上の優秀なチームに成長。</p>',
       location: {
         center: [-1.12782, 31.55374],
         zoom: 1.38,
