@@ -708,15 +708,14 @@ a.mapboxgl-ctrl-logo.mapboxgl-compact {
   }
 }
 
-div.vid_contents {
-  width: 100%; /*背景色を横幅いっぱいに広げる*/
-  text-align: center;
+video {
+  width: 100%;
+  max-width: 1000px;
+  height: 10%;
+  display: block;
   margin: auto;
-  padding: 4% 4% 4% 4%; /*ここで動画の周りの余白を調整*/
-  background: #e6e6e6; /*余白の背景色*/
 }
 
-video.vid_main {
-  width: 100%;
-  max-width: 920px; /*PC版での最大幅*/
+.vid_contents {
+  padding: 5px 1px !important;
 }

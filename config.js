@@ -157,7 +157,7 @@ var config = {
       hidden: false,
       title: "2020年3月10日 マップボックス・ジャパン設立",
       description:
-        '<div class="vid_contents"> <video class="vid_main" src="https://shogohirasawa.github.io/Mapbox_rootmap/video/MapboxJapanOfficeTour.mp4" controls loop playsinline muted></video> </div><p>Mapbox Inc.とソフトバンク株式会社が合同出資し、「マップボックス・ジャパン合同会社」を2020年3月10日に設立。CEO高田を中心に日本の新しい地図プラットフォームに挑戦<p>',
+        '<div class="vid_contents"> <video autoplay loop class="vid_main" src="https://shogohirasawa.github.io/Mapbox_rootmap/video/MapboxJapanOfficeTour.mp4" controls loop playsinline muted></video> </div><p>Mapbox Inc.とソフトバンク株式会社が合同出資し、「マップボックス・ジャパン合同会社」を2020年3月10日に設立。CEO高田を中心に日本の新しい地図プラットフォームに挑戦。<p>',
       location: {
         center: [139.77084, 35.68273],
         zoom: 8.8,
@@ -172,7 +172,7 @@ var config = {
     },
     {
       id: "9",
-      alignment: "left",
+      alignment: "right",
       hidden: false,
       title: "2021年7月 日本独自の地図広告プロダクト「Mapbox広告」をリリース",
       image:
@@ -193,7 +193,7 @@ var config = {
     },
     {
       id: "10",
-      alignment: "left",
+      alignment: "right",
       hidden: false,
       title: "ストーリーテリングについて",
       image:
