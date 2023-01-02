@@ -156,10 +156,8 @@ var config = {
       alignment: "right",
       hidden: false,
       title: "2020年3月10日 マップボックス・ジャパン設立",
-      image:
-        "https://shogohirasawa.github.io/Mapbox_rootmap/image/Japan/CEOtakata.jpeg",
       description:
-        "Mapbox Inc.とソフトバンク株式会社が合同出資し、「マップボックス・ジャパン合同会社」を2020年3月10日に設立。CEO高田を中心に日本の新しい地図プラットフォームに挑戦",
+        '<div class="yt_inner"> <div class="yt"> <iframe class="yt__iframe" src="https://youtu.be/dtmawMcrsAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div> </div> ',
       location: {
         center: [139.77084, 35.68273],
         zoom: 8.8,
