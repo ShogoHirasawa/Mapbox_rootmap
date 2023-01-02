@@ -177,7 +177,7 @@ var config = {
       image:
         "https://shogohirasawa.github.io/Mapbox_rootmap/image/Japan/map_ad_2.png",
       description:
-        "マップボックス・ジャパンから地図広告プロダクト「Mapbox広告」をリリース。Web地図の新しい広告技術を日本から発信",
+        "マップボックス・ジャパンから地図広告プロダクト「Mapbox広告」をリリース。Web地図の新しい広告技術を日本から発信。",
       location: {
         center: [139.7501, 35.66992],
         zoom: 15.08,
@@ -198,7 +198,7 @@ var config = {
       image:
         "https://shogohirasawa.github.io/Mapbox_rootmap/image/origins/mapbox_image.png",
       description:
-        '<p>このルーツマップはMapboxのストーリーテリングのテンプレートを利用して作成しました。<br>ストーリーテリングについて詳しくは<a href="https://www.mapbox.jp/blog/interactive-storytelling-3d-maps-with-mapbox-gl-js-v2">こちら</a></p>',
+        '<p>このルーツマップはMapboxのストーリーテリングのテンプレートを利用して作成しました。ストーリーテリングについて詳しくは<a href="https://www.mapbox.jp/blog/interactive-storytelling-3d-maps-with-mapbox-gl-js-v2">こちら</a></p>',
       location: {
         center: [139.7501, 35.66992],
         zoom: 15.08,
