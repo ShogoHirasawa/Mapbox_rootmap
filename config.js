@@ -1,5 +1,5 @@
 var config = {
-  style: "mapbox://styles/shogohirasawa/cl0f4hkpq003a14pjuluji37e",
+  style: "mapbox://styles/shogohirasawa/clcecwncv000m14mnlel1k7sh",
   accessToken:
     "pk.eyJ1Ijoic2hvZ29oaXJhc2F3YSIsImEiOiJjazFhbzVrMG0yNmxjM2xuaTBmM3h0dW4wIn0.Bxjy09jy_cwOQVexF1xBfg",
   showMarkers: false,
@@ -12,7 +12,7 @@ var config = {
   chapters: [
     {
       id: "1",
-      alignment: "left",
+      alignment: "right",
       hidden: false,
       title: "地図のない世界に光を",
       image:
@@ -53,7 +53,7 @@ var config = {
     },
     {
       id: "3",
-      alignment: "left",
+      alignment: "right",
       hidden: false,
       title: "2015年 グローバル企業へ",
       image:
@@ -93,7 +93,7 @@ var config = {
 
     {
       id: "5",
-      alignment: "left",
+      alignment: "right",
       hidden: false,
       title: "アメリカ サンフランシスコ office",
       image:
