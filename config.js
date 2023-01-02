@@ -116,9 +116,8 @@ var config = {
       alignment: "right",
       hidden: false,
       title: "フィンランド ヘルシンキ office",
-      image:
-        "https://shogohirasawa.github.io/Mapbox_rootmap/image/offices/Helsinki.jpg",
-      // description: "",
+      description:
+        '<div class="vid_contents"> <video autoplay loop class="vid_main" src="https://shogohirasawa.github.io/Mapbox_rootmap/video/MapboxHelsinkiNewOfficeOpeningCelebration2022.mp4" controls loop playsinline muted></video> </div>',
       location: {
         center: [24.93331, 60.18783],
         zoom: 10.12,
