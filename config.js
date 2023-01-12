@@ -154,8 +154,10 @@ var config = {
       alignment: "right",
       hidden: false,
       title: "2020年3月10日 マップボックス・ジャパン設立",
+      image:
+        "https://shogohirasawa.github.io/Mapbox_rootmap/image/Japan/CEOtakata.jpeg",
       description:
-        '<div class="vid_contents"> <video autoplay loop class="vid_main" src="https://shogohirasawa.github.io/Mapbox_rootmap/video/MapboxJapanOfficeTour.mp4" controls loop playsinline muted></video> </div><p>Mapbox Inc.とソフトバンク株式会社が合同出資し、「マップボックス・ジャパン合同会社」を2020年3月10日に設立。CEO高田を中心に日本の新しい地図プラットフォームに挑戦。<p>',
+        "Mapbox Inc.とソフトバンク株式会社が合同出資し、「マップボックス・ジャパン合同会社」を2020年3月10日に設立。CEO高田を中心に日本の新しい地図プラットフォームに挑戦。",
       location: {
         center: [139.77084, 35.68273],
         zoom: 8.8,
@@ -170,6 +172,25 @@ var config = {
     },
     {
       id: "9",
+      alignment: "right",
+      hidden: false,
+      title: "日本 東京本社",
+      description:
+        '<div class="vid_contents"> <video autoplay loop class="vid_main" src="https://shogohirasawa.github.io/Mapbox_rootmap/video/MapboxJapanOfficeTour.mp4" controls loop playsinline muted></video> </div><p>東京都港区虎ノ門のWeWork内にオフィスを構える。<p>',
+      location: {
+        center: [139.77084, 35.68273],
+        zoom: 12,
+        pitch: 41.0,
+        bearing: 0.0,
+      },
+      mapAnimation: "flyTo",
+      rotateAnimation: false,
+      callback: "",
+      onChapterEnter: [],
+      onChapterExit: [],
+    },
+    {
+      id: "10",
       alignment: "right",
       hidden: false,
       title: "2021年7月 日本独自の地図広告プロダクト「Mapbox広告」をリリース",
